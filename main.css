@@ -1,0 +1,17 @@
+html,
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+svg {
+  border: 2px solid black;
+}
+
+circle {
+  /* fill: blueviolet; */
+  /* border: 6px solid blue; */
+}
